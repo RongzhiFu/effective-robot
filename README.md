@@ -27,7 +27,7 @@ All hyperspectral image datasets used in this study (Indian Pines, Salinas, and 
 
 Usage
 
-Run the Jupyter notebook Pavia University.ipynb which contains:
+Run the Jupyter notebook.ipynb which contains:
 Data Loading and Preprocessing:
 Load and explore hyperspectral data
 Filter unlabeled pixels
